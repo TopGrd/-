@@ -5,5 +5,5 @@
 
 依赖外部模块  
 request  
-cherrio  
+cheerio  
 可使用npm下载  
